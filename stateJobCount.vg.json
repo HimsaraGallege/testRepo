@@ -1,0 +1,45 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Data Science Job Postings on Seek.com.au",
+    "width": 900,
+    "height": 600,
+    "data": {
+      "url": "Australian-states.topojson",
+      "format": {
+            "type": "topojson",
+            "feature": "Australian-states"
+          }
+    },
+    "transform": [{
+        "lookup": "properties.STATE_NAME",
+        "from": {
+          "data": {
+            "url": "../data/StateInfo.csv"
+          },
+          "key": "State",
+          "fields": ["Jobs"]
+        }
+      },
+      {"calculate": "datum.Jobs", "as": "Listings"}
+    ],
+    "projection": {
+      "type": "equirectangular"
+    },
+    "mark": {
+      "type": "geoshape"
+      },
+    "encoding": {
+      "color": {
+        "field": "Listings",
+        "type": "quantitative",
+        "scale": {
+          "type": "threshold",
+          "domain": [50, 100, 200, 300, 400]
+          }
+      },
+      "tooltip": [
+        {"field": "properties.STATE_NAME", "type": "nominal", "title": "State"},
+        {"field": "Listings", "type": "quantitative"}
+      ]
+    }
+}
