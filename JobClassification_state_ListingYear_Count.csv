@@ -1,0 +1,129 @@
+jobClassification,state,ListingYear,Count
+Banking & Financial Services,Australian Capital Territory,2020,1
+Banking & Financial Services,Australian Capital Territory,2021,1
+Banking & Financial Services,New South Wales,2019,48
+Banking & Financial Services,New South Wales,2020,28
+Banking & Financial Services,New South Wales,2021,42
+Banking & Financial Services,New South Wales,2022,2
+Banking & Financial Services,Queensland,2019,1
+Banking & Financial Services,Queensland,2020,1
+Banking & Financial Services,Queensland,2021,5
+Banking & Financial Services,South Australia,2019,1
+Banking & Financial Services,Victoria,2019,15
+Banking & Financial Services,Victoria,2020,2
+Banking & Financial Services,Victoria,2021,14
+Banking & Financial Services,Victoria,2022,1
+Banking & Financial Services,Western Australia,2019,2
+Banking & Financial Services,Western Australia,2020,1
+Consulting & Strategy,Australian Capital Territory,2019,1
+Consulting & Strategy,Australian Capital Territory,2020,1
+Consulting & Strategy,Australian Capital Territory,2021,1
+Consulting & Strategy,New South Wales,2019,25
+Consulting & Strategy,New South Wales,2020,11
+Consulting & Strategy,New South Wales,2021,29
+Consulting & Strategy,New South Wales,2022,3
+Consulting & Strategy,Northern Territory,2021,1
+Consulting & Strategy,Queensland,2019,3
+Consulting & Strategy,Queensland,2020,3
+Consulting & Strategy,Queensland,2021,4
+Consulting & Strategy,South Australia,2019,1
+Consulting & Strategy,South Australia,2021,5
+Consulting & Strategy,Victoria,2019,8
+Consulting & Strategy,Victoria,2020,14
+Consulting & Strategy,Victoria,2021,17
+Consulting & Strategy,Western Australia,2021,3
+Education & Training,Australian Capital Territory,2019,1
+Education & Training,Australian Capital Territory,2021,5
+Education & Training,Australian Capital Territory,2022,2
+Education & Training,New South Wales,2019,5
+Education & Training,New South Wales,2020,4
+Education & Training,New South Wales,2021,9
+Education & Training,Northern Territory,2021,1
+Education & Training,Queensland,2020,1
+Education & Training,Queensland,2021,13
+Education & Training,Queensland,2022,2
+Education & Training,South Australia,2021,3
+Education & Training,Tasmania,2021,2
+Education & Training,Victoria,2019,1
+Education & Training,Victoria,2021,20
+Education & Training,Western Australia,2019,3
+Education & Training,Western Australia,2020,2
+Education & Training,Western Australia,2021,8
+Education & Training,Western Australia,2022,2
+Government & Defence,Australian Capital Territory,2019,10
+Government & Defence,Australian Capital Territory,2020,15
+Government & Defence,Australian Capital Territory,2021,38
+Government & Defence,New South Wales,2019,7
+Government & Defence,New South Wales,2020,10
+Government & Defence,New South Wales,2021,30
+Government & Defence,New South Wales,2022,1
+Government & Defence,Queensland,2019,3
+Government & Defence,Queensland,2020,7
+Government & Defence,Queensland,2021,11
+Government & Defence,South Australia,2019,3
+Government & Defence,South Australia,2020,3
+Government & Defence,South Australia,2021,7
+Government & Defence,Tasmania,2019,1
+Government & Defence,Tasmania,2020,2
+Government & Defence,Tasmania,2021,1
+Government & Defence,Victoria,2019,9
+Government & Defence,Victoria,2020,10
+Government & Defence,Victoria,2021,32
+Government & Defence,Victoria,2022,1
+Government & Defence,Western Australia,2019,1
+Government & Defence,Western Australia,2020,1
+Government & Defence,Western Australia,2021,5
+Information & Communication Technology,Australian Capital Territory,2019,64
+Information & Communication Technology,Australian Capital Territory,2020,72
+Information & Communication Technology,Australian Capital Territory,2021,58
+Information & Communication Technology,Australian Capital Territory,2022,7
+Information & Communication Technology,New South Wales,2019,358
+Information & Communication Technology,New South Wales,2020,150
+Information & Communication Technology,New South Wales,2021,369
+Information & Communication Technology,New South Wales,2022,31
+Information & Communication Technology,Northern Territories,2021,1
+Information & Communication Technology,Northern Territory,2021,2
+Information & Communication Technology,Queensland,2019,69
+Information & Communication Technology,Queensland,2020,36
+Information & Communication Technology,Queensland,2021,94
+Information & Communication Technology,Queensland,2022,3
+Information & Communication Technology,South Australia,2019,27
+Information & Communication Technology,South Australia,2020,20
+Information & Communication Technology,South Australia,2021,27
+Information & Communication Technology,South Australia,2022,3
+Information & Communication Technology,Tasmania,2020,1
+Information & Communication Technology,UK & Ireland,2020,1
+Information & Communication Technology,Victoria,2019,204
+Information & Communication Technology,Victoria,2020,116
+Information & Communication Technology,Victoria,2021,205
+Information & Communication Technology,Victoria,2022,18
+Information & Communication Technology,Western Australia,2019,62
+Information & Communication Technology,Western Australia,2020,25
+Information & Communication Technology,Western Australia,2021,60
+Information & Communication Technology,Western Australia,2022,2
+Science & Technology,Australian Capital Territory,2019,12
+Science & Technology,Australian Capital Territory,2020,8
+Science & Technology,Australian Capital Territory,2021,14
+Science & Technology,New South Wales,2019,135
+Science & Technology,New South Wales,2020,106
+Science & Technology,New South Wales,2021,145
+Science & Technology,New South Wales,2022,12
+Science & Technology,Northern Territories,2019,1
+Science & Technology,Overseas,2021,2
+Science & Technology,Queensland,2019,25
+Science & Technology,Queensland,2020,18
+Science & Technology,Queensland,2021,39
+Science & Technology,Queensland,2022,1
+Science & Technology,South Australia,2019,11
+Science & Technology,South Australia,2020,4
+Science & Technology,South Australia,2021,14
+Science & Technology,Tasmania,2019,2
+Science & Technology,UK & Ireland,2019,1
+Science & Technology,Victoria,2019,101
+Science & Technology,Victoria,2020,77
+Science & Technology,Victoria,2021,146
+Science & Technology,Victoria,2022,13
+Science & Technology,Western Australia,2019,19
+Science & Technology,Western Australia,2020,13
+Science & Technology,Western Australia,2021,31
+Science & Technology,Western Australia,2022,2
